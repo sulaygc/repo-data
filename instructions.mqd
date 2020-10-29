@@ -1,0 +1,20 @@
+Sulay's music quiz game is relatively simple to understand.
+
+You're essentially going to be presented with two things:
+-- the name of an artist, band, composer, or general musician
+-- the first letter of each word in a song or piece they have written
+
+For example:
+ARTIST: The Beatles
+SONG: H- J-
+The answer here is "Hey Jude" by The Beatles. 
+Notice how there is a dash after the letters indicating that there are missing characters of an unspecified length or quantity.
+
+You have two chances to guess the name of the song or piece.
+
+If you guess correctly the first time, you score 3 points.
+If you guess correctly the second time, you score 1 point.
+Either way, the game advances.
+
+If you do not guess the song or piece correctly within those two tries, the game ends.
+You will then be given your final score and shown the leaderboard.
